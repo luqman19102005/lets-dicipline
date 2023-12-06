@@ -1,2 +1,2 @@
-# lets-dicipline
-first repository
+Hello
+Lets start
